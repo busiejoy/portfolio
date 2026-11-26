@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://busayo-m-odedeji.vercel.app/sitemap.xml
